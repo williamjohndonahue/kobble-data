@@ -1,0 +1,36 @@
+{
+  "groups" : [
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Home",
+          "subtitle" : "Kobble Home",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/ioshome.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Kobble"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "My Channel",
+          "subtitle" : "My Channel",
+          "channel" : {
+            "owner" : "williamjohndonahue",
+            "path" : "channels\/mychannel.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "My Channels"
+    }
+  ]
+}
