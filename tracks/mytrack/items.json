@@ -1,5 +1,25 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "williamjohndonahue",
+            "path" : "content\/dev.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Dev",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Dev",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
