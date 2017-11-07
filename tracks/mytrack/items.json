@@ -7,7 +7,7 @@
           "url" : "https:\/\/github.com\/maptalks\/maptalks.js"
         }
       },
-      "title" : "maptalks\/maptalks.js",
+      "title" : "Javascript 3D Maps",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
