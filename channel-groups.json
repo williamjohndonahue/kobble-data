@@ -37,6 +37,15 @@
           }
         },
         {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Doctors of the Church",
           "subtitle" : "Doctors of the Church",
           "channel" : {
