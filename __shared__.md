@@ -8,3 +8,7 @@
 
 [Opus Dei and politics - Wikipedia](https://en.wikipedia.org/wiki/Opus_Dei_and_politics)
 
+[Paola Binetti - Wikipedia](https://en.wikipedia.org/wiki/Paola_Binetti)
+
+[Ruth Kelly - Wikipedia](https://en.wikipedia.org/wiki/Ruth_Kelly)
+
