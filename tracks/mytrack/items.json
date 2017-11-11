@@ -71,6 +71,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.popsci.com\/how-to-use-new-imessage-features-in-ios-10"
+        }
+      },
+      "title" : "www.popsci.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.popsci.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
