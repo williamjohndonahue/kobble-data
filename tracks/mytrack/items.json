@@ -79,11 +79,11 @@
           "url" : "https:\/\/www.popsci.com\/how-to-use-new-imessage-features-in-ios-10"
         }
       },
-      "title" : "www.popsci.com",
+      "title" : "How to Use the New iMessage Features in ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.popsci.com",
+      "subtitle" : "Stickers, games, digital touch, new emoji, and mor",
       "expanded" : true,
       "children" : [
 
