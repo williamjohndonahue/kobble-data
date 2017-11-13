@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/stackoverflow.com\/questions\/39640574\/how-to-bulk-delete-firebase-anonymous-users"
+        }
+      },
+      "title" : "stackoverflow.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "stackoverflow.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/github.com\/janeasystems\/nodejs-mobile"
         }
       },
