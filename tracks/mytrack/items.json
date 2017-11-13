@@ -7,11 +7,11 @@
           "url" : "https:\/\/stackoverflow.com\/questions\/39640574\/how-to-bulk-delete-firebase-anonymous-users"
         }
       },
-      "title" : "stackoverflow.com",
+      "title" : "How to bulk delete Firebase anonymous us",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "stackoverflow.com",
+      "subtitle" : "Due to my probable misuse of anonymous authenticat",
       "expanded" : true,
       "children" : [
 
