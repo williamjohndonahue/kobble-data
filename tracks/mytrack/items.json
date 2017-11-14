@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/chakrayel.wordpress.com\/2017\/03\/30\/solrcloud-production-install\/"
+        }
+      },
+      "title" : "SolrCloud – Production install",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "SolrCloud – Production install",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/stackoverflow.com\/questions\/39640574\/how-to-bulk-delete-firebase-anonymous-users"
         }
       },
