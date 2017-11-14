@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/github.com\/kohesive\/solr-undertow"
+        }
+      },
+      "title" : "kohesive\/solr-undertow",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "solr-undertow - Solr \/ SolrCloud running in high p",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/chakrayel.wordpress.com\/2017\/03\/30\/solrcloud-production-install\/"
         }
       },
