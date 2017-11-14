@@ -7,11 +7,11 @@
           "url" : "http:\/\/myrobotlab.org\/content\/wordnet-programab-and-solr-graph-query"
         }
       },
-      "title" : "myrobotlab.org",
+      "title" : "Wordnet , ProgramAB, and Solr Graph Quer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "myrobotlab.org",
+      "subtitle" : "|",
       "expanded" : true,
       "children" : [
 
