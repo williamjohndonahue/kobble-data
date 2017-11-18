@@ -7,11 +7,11 @@
           "url" : "https:\/\/github.com\/bwilcox-1234\/ChatScript\/releases"
         }
       },
-      "title" : "github.com",
+      "title" : "bwilcox-1234\/ChatScript",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "ChatScript - Natural Language tool\/dialog manager",
       "expanded" : true,
       "children" : [
 
