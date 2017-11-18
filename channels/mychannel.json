@@ -3,6 +3,15 @@
   "subtitle" : "My Channel",
   "tracks" : [
     {
+      "title" : "Maps",
+      "subtitle" : "Maps",
+      "track" : {
+        "owner" : "williamjohndonahue",
+        "path" : "tracks\/maps",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Prayers",
       "subtitle" : "Prayers",
       "track" : {
