@@ -7,7 +7,7 @@
           "url" : "https:\/\/www.google.com\/maps\/place\/Clevedon+A%26P+Showgrounds+107+Monument+Rd,+Clevedon,+Auckland+2582\/@-37.0055857,175.0418615,15z\/data=!4m2!3m1!1s0x6d72b1ea31626665:0xb9a020de69c850a0"
         }
       },
-      "title" : "Google Maps",
+      "title" : "Clevedon Fair",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
