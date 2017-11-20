@@ -4,11 +4,11 @@
       "data" : {
         "tag" : "UI.Track.NoData"
       },
-      "title" : "Home",
+      "title" : "Work",
       "view" : {
         "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "Home",
+      "subtitle" : "Work",
       "expanded" : false,
       "children" : [
 
