@@ -7,11 +7,11 @@
           "url" : "https:\/\/github.com\/mljs"
         }
       },
-      "title" : "github.com",
+      "title" : "ml.js",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "<div>Machine learning and numerical analysis tools",
       "expanded" : true,
       "children" : [
 
