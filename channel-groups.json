@@ -58,7 +58,7 @@
       "name" : "Links"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
