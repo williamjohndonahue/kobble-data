@@ -12,20 +12,20 @@
       }
     },
     {
-      "title" : "Prayers",
-      "subtitle" : "Prayers",
-      "track" : {
-        "owner" : "williamjohndonahue",
-        "path" : "tracks\/prayers",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Dev",
       "subtitle" : "Dev Track",
       "track" : {
         "owner" : "williamjohndonahue",
         "path" : "tracks\/mytrack",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Prayers",
+      "subtitle" : "Prayers",
+      "track" : {
+        "owner" : "williamjohndonahue",
+        "path" : "tracks\/prayers",
         "repo" : "kobble-data"
       }
     }
