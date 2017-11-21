@@ -3,27 +3,10 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "My Channel",
-          "subtitle" : "My Channel",
-          "channel" : {
-            "owner" : "williamjohndonahue",
-            "path" : "channels\/mychannel.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Doctors of the Church",
-          "subtitle" : "Doctors of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Doctors-of-the-Church.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
-      "name" : "Bill’s Channels"
+      "name" : "test"
     },
     {
       "isShowing" : true,
@@ -56,6 +39,31 @@
       ],
       "isToggled" : false,
       "name" : "Kobble"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "My Channel",
+          "subtitle" : "My Channel",
+          "channel" : {
+            "owner" : "williamjohndonahue",
+            "path" : "channels\/mychannel.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Doctors of the Church",
+          "subtitle" : "Doctors of the Church",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Doctors-of-the-Church.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Bill’s Channels"
     }
   ]
 }
