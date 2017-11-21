@@ -3,7 +3,7 @@
   "subtitle" : "My Channel",
   "tracks" : [
     {
-      "title" : "Dev",
+      "title" : "Develop",
       "subtitle" : "Dev Track",
       "track" : {
         "owner" : "williamjohndonahue",
