@@ -15,23 +15,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/www.chatbots.org\/ai_zone\/viewthread\/1011\/"
-            }
-          },
-          "title" : "Compiling ChatScript under iOS | ChatScr",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Compiling ChatScript under iOS | ChatScript | Deve",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "https:\/\/www.codeproject.com\/Articles\/629646\/Dun-Bradstreet-A-Natural-Language-Interface"
             }
           },
@@ -57,6 +40,23 @@
             "tag" : "UI.ContentViews.Views.WebView"
           },
           "subtitle" : "ChatScript - Natural Language tool\/dialog manager",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/www.chatbots.org\/ai_zone\/viewthread\/1011\/"
+            }
+          },
+          "title" : "Compiling ChatScript under iOS | ChatScr",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Compiling ChatScript under iOS | ChatScript | Deve",
           "expanded" : true,
           "children" : [
 
