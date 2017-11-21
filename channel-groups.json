@@ -1,46 +1,6 @@
 {
   "groups" : [
     {
-      "isShowing" : false,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "test"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Links"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Home",
-          "subtitle" : "Kobble Home",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/ioshome.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Kobble"
-    },
-    {
       "isShowing" : true,
       "channels" : [
         {
@@ -64,6 +24,46 @@
       ],
       "isToggled" : false,
       "name" : "Bill’s Channels"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Home",
+          "subtitle" : "Kobble Home",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/ioshome.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Kobble"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Links"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "test"
     }
   ]
 }
