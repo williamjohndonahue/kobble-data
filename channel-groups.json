@@ -42,7 +42,7 @@
       "name" : "Kobble"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Sports",
