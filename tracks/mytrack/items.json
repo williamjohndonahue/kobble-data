@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/lucene.apache.org\/solr\/guide\/6_6\/graph-traversal.html"
+        }
+      },
+      "title" : "Graph Traversal",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Graph traversal with streaming expressions uses th",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/sketchfab.com\/"
         }
       },
