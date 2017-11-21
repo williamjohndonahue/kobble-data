@@ -132,23 +132,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/github.com\/unipop-graph\/unipop"
-        }
-      },
-      "title" : "unipop-graph\/unipop",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "unipop - Data Integration Graph",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.politepix.com\/openears\/"
         }
       },
