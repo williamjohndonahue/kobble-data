@@ -9,23 +9,6 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Chat",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/github.com\/laoqiren\/mlhelper"
-        }
-      },
-      "title" : "laoqiren\/mlhelper",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "mlhelper - Algorithms and utils for Machine Learni",
       "expanded" : true,
       "children" : [
 
@@ -40,8 +23,25 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "ML",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/github.com\/laoqiren\/mlhelper"
+            }
+          },
+          "title" : "laoqiren\/mlhelper",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "mlhelper - Algorithms and utils for Machine Learni",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
