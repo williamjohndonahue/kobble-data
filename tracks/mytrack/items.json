@@ -115,6 +115,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/github.com\/bwilcox-1234\/ChatScript\/releases"
+        }
+      },
+      "title" : "bwilcox-1234\/ChatScript",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ChatScript - Natural Language tool\/dialog manager",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/github.com\/unipop-graph\/unipop"
         }
       },
