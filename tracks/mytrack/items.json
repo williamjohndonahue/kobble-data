@@ -2,27 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "williamjohndonahue",
-            "path" : "content\/sometitle.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Some Title Works",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "Some Title Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "Chat",
@@ -30,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Chat",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
