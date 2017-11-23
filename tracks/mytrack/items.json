@@ -309,11 +309,11 @@
           }
         }
       },
-      "title" : " Dev",
+      "title" : "Dev",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "Dev   For Test",
+      "subtitle" : "Dev For Test",
       "expanded" : true,
       "children" : [
 
