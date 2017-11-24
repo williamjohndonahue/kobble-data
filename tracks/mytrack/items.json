@@ -24,7 +24,7 @@
           "url" : "https:\/\/livy.incubator.apache.org\/"
         }
       },
-      "title" : "livy.incubator.apache.org",
+      "title" : "Apache Livy",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
