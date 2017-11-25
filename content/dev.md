@@ -4,4 +4,4 @@ This method does not always work as intended as web example above code can confu
 
 Just‘’’¥€£
 
-<>!?…~|§£€¥_^[]{}@#$&*() ’ l
+<>!?…~|§£€¥_^[]{}@#$&*()’ l
