@@ -3,6 +3,15 @@
   "subtitle" : "My Channel",
   "tracks" : [
     {
+      "title" : "Research",
+      "subtitle" : "Research",
+      "track" : {
+        "owner" : "williamjohndonahue",
+        "path" : "tracks\/research",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Develop",
       "subtitle" : "Dev Track",
       "track" : {
