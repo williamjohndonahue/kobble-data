@@ -7,11 +7,11 @@
           "url" : "https:\/\/github.com\/mitchellh\/vagrant-google"
         }
       },
-      "title" : "github.com",
+      "title" : "mitchellh\/vagrant-google",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "vagrant-google - Vagrant provider for GCE.",
       "expanded" : true,
       "children" : [
 
