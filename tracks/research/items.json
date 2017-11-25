@@ -7,7 +7,7 @@
           "url" : "https:\/\/hal.archives-ouvertes.fr\/"
         }
       },
-      "title" : "Accueil",
+      "title" : "HAL Archive",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
