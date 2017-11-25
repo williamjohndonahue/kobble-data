@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/hal.archives-ouvertes.fr\/"
+        }
+      },
+      "title" : "Accueil",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "hal.archives-ouvertes.fr",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
