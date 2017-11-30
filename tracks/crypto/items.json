@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/github.com\/MichaelBurge\/pyramid-scheme"
+        }
+      },
+      "title" : "MichaelBurge\/pyramid-scheme",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "pyramid-scheme - An EVM backend for SICP Scheme. T",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/blog.zorinaq.com\/full-node-on-5-dollars\/"
         }
       },
