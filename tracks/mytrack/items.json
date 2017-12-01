@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/github.com\/mosuka\/kubernetes-solr\/tree\/master\/5.5"
+        }
+      },
+      "title" : "mosuka\/kubernetes-solr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "kubernetes-solr - Kubernetes resource for Apache S",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/github.com\/yomon8\/solrcloud"
         }
       },
