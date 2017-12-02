@@ -7,11 +7,11 @@
           "url" : "https:\/\/github.com\/maxpert\/RedisDirectory"
         }
       },
-      "title" : "github.com",
+      "title" : "maxpert\/RedisDirectory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "RedisDirectory - Lucene Directory Storage on top o",
       "expanded" : true,
       "children" : [
 
