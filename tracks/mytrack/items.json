@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/blog.creapptives.com\/post\/33172587388\/smoking-lucene-on-redis"
+        }
+      },
+      "title" : "blog.creapptives.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "blog.creapptives.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/github.com\/maxpert\/RedisDirectory"
         }
       },
