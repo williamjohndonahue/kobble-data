@@ -15,14 +15,14 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/www.google.co.nz\/search?q=updatehandlers+in+solr+config&ie=UTF-8&oe=UTF-8&hl=en-nz&client=safari"
+              "url" : "https:\/\/lucene.apache.org\/solr\/guide\/6_6\/updatehandlers-in-solrconfig.html"
             }
           },
-          "title" : "updatehandlers in solr config - Google S",
+          "title" : "UpdateHandlers in SolrConfig",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "www.google.co.nz",
+          "subtitle" : "The settings in this section are configured in the",
           "expanded" : true,
           "children" : [
 
