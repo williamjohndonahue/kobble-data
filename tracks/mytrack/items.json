@@ -2,6 +2,36 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Solr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Solr",
+      "expanded" : true,
+      "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/mail-archives.apache.org\/mod_mbox\/lucene-solr-user\/201505.mbox\/%3CCAN4YXvcON4zonztkCE387cQtCPaaRuNOUArM=h9gu_eKJop3EQ@mail.gmail.com%3E"
+            }
+          },
+          "title" : "mail-archives.apache.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "mail-archives.apache.org",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/github.com\/tjake\/Solandra"
