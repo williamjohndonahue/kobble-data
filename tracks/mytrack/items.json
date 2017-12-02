@@ -7,11 +7,11 @@
           "url" : "http:\/\/blog.creapptives.com\/post\/33172587388\/smoking-lucene-on-redis"
         }
       },
-      "title" : "blog.creapptives.com",
+      "title" : "Smoking Lucene on Redis",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "blog.creapptives.com",
+      "subtitle" : "In my previous post I explored how to replace the ",
       "expanded" : true,
       "children" : [
 
