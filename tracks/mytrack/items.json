@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/www.google.co.nz\/search?q=updatehandlers+in+solr+config&ie=UTF-8&oe=UTF-8&hl=en-nz&client=safari"
+            }
+          },
+          "title" : "www.google.co.nz",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.google.co.nz",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/mail-archives.apache.org\/mod_mbox\/lucene-solr-user\/201505.mbox\/%3CCAN4YXvcON4zonztkCE387cQtCPaaRuNOUArM=h9gu_eKJop3EQ@mail.gmail.com%3E"
             }
           },
