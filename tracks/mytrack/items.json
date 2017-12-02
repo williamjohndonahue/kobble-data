@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/github.com\/tjake\/Solandra"
+        }
+      },
+      "title" : "tjake\/Solandra",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Solandra = Solr + Cassandra",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/blog.creapptives.com\/post\/33172587388\/smoking-lucene-on-redis"
         }
       },
