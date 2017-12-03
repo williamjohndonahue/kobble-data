@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/support.datastax.com\/hc\/en-us\/articles\/204226369-Solr-Configuration-Best-Practices-and-Troubleshooting-Tips"
+            }
+          },
+          "title" : "Solr Configuration Best Practices and Tr",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Configuration Best Practices\r\n(Straying from these ",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/stackoverflow.com\/questions\/46966089\/solrcloud-persistent-volume-permission-problems-using-kubernetes"
             }
           },
