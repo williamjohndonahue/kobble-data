@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/stackoverflow.com\/questions\/46966089\/solrcloud-persistent-volume-permission-problems-using-kubernetes"
+            }
+          },
+          "title" : "SolrCloud Persistent Volume Permission P",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Per Taking Solr To Production\n  (https:\/\/lucene.ap",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "http:\/\/lucene.472066.n3.nabble.com\/Solr-cloud-in-kubernetes-td4352224.html"
             }
           },
