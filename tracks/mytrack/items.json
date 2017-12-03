@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "http:\/\/lucene.472066.n3.nabble.com\/Solr-cloud-in-kubernetes-td4352224.html"
+            }
+          },
+          "title" : "lucene.472066.n3.nabble.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "lucene.472066.n3.nabble.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/github.com\/kubernetes\/kubernetes\/issues\/44103"
             }
           },
