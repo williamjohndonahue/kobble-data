@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/github.com\/kubernetes\/kubernetes\/issues\/44103"
+            }
+          },
+          "title" : "StatefulSet pods lack name label · Issue",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Is this a BUG REPORT or FEATURE REQUEST? (choose o",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/lucene.apache.org\/solr\/guide\/6_6\/updatehandlers-in-solrconfig.html"
             }
           },
