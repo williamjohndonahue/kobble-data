@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/blogs.ncl.ac.uk\/andreymokhov\/old-graphs-from-new-types\/"
+        }
+      },
+      "title" : "Old graphs from new types",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "After I got back from the holiday that I planned i",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/hal.archives-ouvertes.fr\/"
         }
       },
