@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/groups.google.com\/forum\/m\/#!topic\/janusgraph-users\/nUsZQnZCcjk"
+            }
+          },
+          "title" : "Google Groups",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Google Groups allows you to create and participate",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/support.datastax.com\/hc\/en-us\/articles\/204226369-Solr-Configuration-Best-Practices-and-Troubleshooting-Tips"
             }
           },
