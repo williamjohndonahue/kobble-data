@@ -12,3 +12,7 @@
 
 [Ruth Kelly - Wikipedia](https://en.wikipedia.org/wiki/Ruth_Kelly)
 
+[link](https://blogs.ncl.ac.uk/andreymokhov/old-graphs-from-new-types/)
+
+[link](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf)
+
