@@ -2,6 +2,23 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/metaparticle.io\/posts\/welcome-to-metaparticle\/"
+        }
+      },
+      "title" : "Welcome to Metaparticle!",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A standard library for distributed system developm",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "Solr",
@@ -9,7 +26,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Solr",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
