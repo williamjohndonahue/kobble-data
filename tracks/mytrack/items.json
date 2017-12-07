@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "http:\/\/opensourceconnections.com\/blog\/2013\/06\/05\/build-your-own-lucene-codec\/"
+            }
+          },
+          "title" : "opensourceconnections.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "opensourceconnections.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/groups.google.com\/forum\/m\/#!topic\/janusgraph-users\/nUsZQnZCcjk"
             }
           },
