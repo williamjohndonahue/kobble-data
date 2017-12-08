@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/github.com\/metaparticle-io"
+          "url" : "https:\/\/github.com\/metaparticle-io\/sync"
         }
       },
-      "title" : "Metaparticle.io",
+      "title" : "github.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "<div>Metaparticle: Cloud native standard library f",
+      "subtitle" : "github.com",
       "expanded" : true,
       "children" : [
 
