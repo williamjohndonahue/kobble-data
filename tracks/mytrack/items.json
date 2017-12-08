@@ -4,14 +4,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/github.com\/metaparticle-io\/sync"
+          "url" : "http:\/\/truffleframework.com\/ganache\/"
         }
       },
-      "title" : "github.com",
+      "title" : "Ganache | Truffle Suite",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "Your Ethereum Swiss Army Knife",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/github.com\/metaparticle-io\/sync"
+        }
+      },
+      "title" : "metaparticle-io\/sync",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Metaparticle\/Sync: Cloud native synchronization li",
       "expanded" : true,
       "children" : [
 
